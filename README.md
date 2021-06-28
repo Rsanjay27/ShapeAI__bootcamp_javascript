@@ -1,29 +1,30 @@
 # ShapeAI__bootcamp_javascript
-7 Days Free Bootcamp on Basic Web Dev  in collaboration with
-Google Developer Groups,  Microsoft Learn Student Ambassador Program and AWS Students Club.
- 
+# SHAPEAI Javascript and Reactjs BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulLetcbkthT0p_IzwgRAYbu"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-4.png"> </a>
+<br>I got to have hands on experience on:
+<li>JavaScript
+<li>HTML
+<li>React.js
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
+or follow SHAPEAI on:
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+"https://github.com/shapeai">GitHub</a>
 
 
- Link to the notebook:  
-https://codesandbox.io/s/friendly-nor...
-
- Student Influencer Internship Application (Be the face of ShapeAI on your Campus):
-https://forms.gle/r9wnPvXoYBUNZf7LA
-
- Homework Refer: https://developer.mozilla.org/en-US/d...
-   
-
-📍Website:  https://www.shapeai.tech/​​​
-
-
- 📍LinkedIn : https://www.linkedin.com/company/shapeai
-
-
- 📍Instagram:  https://www.instagram.com/shape.ai/?h...
-
-
- 📍 YouTube:  https://www.youtube.com/channel/UCTUv...
-
-
- 📍 Telegram:  https://t.me/joinchat/SpGlI10LcpmsMVf7
 thank you
